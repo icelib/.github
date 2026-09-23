@@ -1,14 +1,13 @@
 # icelib
 
-Open-source tools and libraries by [ice breaker](https://icebreaker.top/).
+Open-source developer tools and libraries by [ice breaker](https://icebreaker.top/).
 
-A collection of developer tools, reusable libraries, and project templates.
+A focused collection of tools for monorepos, text matching, and icon pipelines.
 
-### Projects
+### Featured projects
 
-- **[repoctl](https://github.com/icelib/repoctl)** — Initialize, maintain, validate, and release pnpm and Turborepo monorepos.
-- **[iconctl](https://github.com/icelib/iconctl)** — Fetch Figma icons, convert them to Iconify JSON, and distribute them.
-- **[javachanges](https://github.com/icelib/javachanges)** — Changesets and release planning for Maven monorepos.
-- **[npm-lib-template](https://github.com/icelib/npm-lib-template)** — A starting point for building npm libraries.
+- **[repoctl](https://github.com/icelib/repoctl)** — A task-first CLI for initializing, maintaining, validating, and releasing pnpm and Turborepo monorepos.
+- **[modern-ahocorasick](https://github.com/icelib/modern-ahocorasick)** — Unicode-aware Aho–Corasick keyword matching for JavaScript and TypeScript, with search, counting, replacement, and streaming extensions.
+- **[iconctl](https://github.com/icelib/iconctl)** — Sync icons from Figma or local SVG folders into validated Iconify JSON for Iconify, UnoCSS, and Tailwind workflows.
 
 [Website](https://icebreaker.top/) · [All repositories](https://github.com/orgs/icelib/repositories)
